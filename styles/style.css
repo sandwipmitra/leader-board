@@ -44,3 +44,15 @@ body{
     margin-left: 20px;
     font-size: 18px;
 }
+
+/* top blog styles */
+.blog{
+    display: flex;
+}
+.blog img{
+    width: 177px;
+    height: 117px;
+}
+.blog-info{
+    margin-left: 16px;
+}
